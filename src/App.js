@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://github.com/JulyB-creations/weatherproject"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
