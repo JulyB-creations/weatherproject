@@ -18,7 +18,7 @@ export default function App() {
           </a>
           and{" "}
           <a href="https://unruffled-booth-fda32d.netlify.app">
-            hostet on Netlify
+            hosted on Netlify
           </a>
         </footer>
       </div>
