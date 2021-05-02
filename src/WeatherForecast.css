@@ -1,0 +1,15 @@
+.WeatherForecast {
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.Forecast-temp-min {
+  font-size: 14px;
+  opacity: 0.8;
+  margin-left: 5px;
+}
+
+.Forecast-temp-max {
+  font-size: 14px;
+}

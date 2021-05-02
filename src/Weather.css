@@ -31,9 +31,7 @@
 }
 
 .Weather canvas {
-  margin-right: 10px;
-  height: 64px;
-  width: 64px;
+  /*margin-right: 10px;*/
 }
 
 .Weather .temperature {
@@ -41,6 +39,7 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+  margin-left: 10px;
 }
 
 .Weather .unit {
